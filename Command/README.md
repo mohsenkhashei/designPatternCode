@@ -10,4 +10,8 @@ Because commands centralize all processing, they are also frequently involved in
 
 # usage
 
-check index
+check indexand run
+
+```bash
+`ts-node index`
+```
