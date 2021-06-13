@@ -7,3 +7,8 @@ A common programming task is to traverse and manipulate a collection of objects.
 ## Usage
 
 check index
+and run
+
+```bash
+`ts-node index`
+```

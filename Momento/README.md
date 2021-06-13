@@ -5,3 +5,8 @@ The Memento pattern provides temporary storage as well as restoration of an obje
 ## Usage of code
 
 check index file
+and run
+
+```bash
+`ts-node index`
+```

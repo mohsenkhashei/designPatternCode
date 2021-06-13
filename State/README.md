@@ -7,3 +7,8 @@ Say a customer places an online order for a TV. While this order is being proces
 ## Usage of Code
 
 check index
+and run
+
+```bash
+`ts-node index`
+```

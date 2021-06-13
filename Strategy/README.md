@@ -7,6 +7,11 @@ Say we like to test the performance of different sorting algorithms to an array 
 ## Usage
 
 checkout index
+and run
+
+```bash
+`ts-node index`
+```
 
 ### similarity
 

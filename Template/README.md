@@ -7,3 +7,8 @@ Template Methods are frequently used in general purpose frameworks or libraries 
 ## usage
 
 checkout index file
+and run
+
+```bash
+`ts-node index`
+```

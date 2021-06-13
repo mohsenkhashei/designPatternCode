@@ -7,3 +7,8 @@ When building web apps you end up writing many event handlers. Event handlers ar
 ## usage
 
 check index
+and run
+
+```bash
+`ts-node index`
+```
